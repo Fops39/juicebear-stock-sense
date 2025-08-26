@@ -1,0 +1,17 @@
+com/company/inventory/domain/Order.class
+com/company/inventory/domain/enums/OrderStatus.class
+com/company/inventory/repository/UserRepository.class
+com/company/inventory/domain/OrderItem.class
+com/company/inventory/domain/enums/OrderType.class
+com/company/inventory/repository/ProductRepository.class
+com/company/inventory/domain/Warehouse.class
+com/company/inventory/domain/enums/ProductCategory.class
+com/company/inventory/domain/InventoryItem.class
+com/company/inventory/domain/Product.class
+com/company/inventory/domain/enums/Role.class
+com/company/inventory/repository/InventoryItemRepository.class
+com/company/inventory/domain/User.class
+com/company/inventory/domain/enums/WarehouseType.class
+com/company/inventory/repository/WarehouseRepository.class
+com/company/inventory/InventoryApplication.class
+com/company/inventory/repository/OrderRepository.class

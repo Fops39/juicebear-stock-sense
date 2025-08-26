@@ -1,0 +1,17 @@
+/workspace/backend/src/main/java/com/company/inventory/InventoryApplication.java
+/workspace/backend/src/main/java/com/company/inventory/domain/InventoryItem.java
+/workspace/backend/src/main/java/com/company/inventory/domain/Order.java
+/workspace/backend/src/main/java/com/company/inventory/domain/OrderItem.java
+/workspace/backend/src/main/java/com/company/inventory/domain/Product.java
+/workspace/backend/src/main/java/com/company/inventory/domain/User.java
+/workspace/backend/src/main/java/com/company/inventory/domain/Warehouse.java
+/workspace/backend/src/main/java/com/company/inventory/domain/enums/OrderStatus.java
+/workspace/backend/src/main/java/com/company/inventory/domain/enums/OrderType.java
+/workspace/backend/src/main/java/com/company/inventory/domain/enums/ProductCategory.java
+/workspace/backend/src/main/java/com/company/inventory/domain/enums/Role.java
+/workspace/backend/src/main/java/com/company/inventory/domain/enums/WarehouseType.java
+/workspace/backend/src/main/java/com/company/inventory/repository/InventoryItemRepository.java
+/workspace/backend/src/main/java/com/company/inventory/repository/OrderRepository.java
+/workspace/backend/src/main/java/com/company/inventory/repository/ProductRepository.java
+/workspace/backend/src/main/java/com/company/inventory/repository/UserRepository.java
+/workspace/backend/src/main/java/com/company/inventory/repository/WarehouseRepository.java
